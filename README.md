@@ -9,8 +9,11 @@ Before using the CQRobot Ocean TDS Meter Sensor, ensure you have the following:
 * [CQRobot Ocean: TDS Meter Sensor](https://www.amazon.com/CQRobot-Ocean-Compatible-Scientific-Laboratory/dp/B08KXRHK7H/)
 * [ADS1115 16-Bit Sensor Analog Signal](https://www.amazon.com/CQRobot-Ocean-Acquisition-Conversion-Motherboards/dp/B08KFZ3PVT/)
 
-### Software Requirements
+### Connection
+Follow the image below to connect your TDS sensor to the Pie.
 
+### Software Requirements
+![image](https://m.media-amazon.com/images/I/914mvtbb-vL._SX522_.jpg)
 You will need the following software installed on your Raspberry Pi or microcontroller:
 
 - **Python**: Ensure Python is installed on your system. You can download it from the official Python website: [Python.org](https://www.python.org/downloads/)
@@ -63,5 +66,9 @@ To get started with the CQRobot Ocean TDS Meter Sensor, you'll need to download 
 1. **[TDS Data](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/TDS_Data.py)**: The script enables you to obtain voltage readings directly from the sensor in real-time, allowing for accurate monitoring of water quality.
 
 2. **[Read Voltage](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/ReadVoltage.py)**: The Script enables data from the sensor to be read and formated([Note: this is not my script](http://www.cqrobot.wiki/index.php/TDS_(Total_Dissolved_Solids)_Meter_Sensor_SKU:_CQRSENTDS01))
+
+### Running the Script
+
+
 
 
