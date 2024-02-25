@@ -6,4 +6,4 @@ The CQRobot Ocean TDS Meter Sensor is a reliable tool designed to measure Total 
 ## Requirements
 
 Before using the CQRobot Ocean TDS Meter Sensor, ensure you have the following:
-* CQRobot Ocean: TDS Meter Sensor(https://www.amazon.com/CQRobot-Ocean-Compatible-Scientific-Laboratory/dp/B08KXRHK7H/)
+* !CQRobot Ocean: TDS Meter Sensor(https://www.amazon.com/CQRobot-Ocean-Compatible-Scientific-Laboratory/dp/B08KXRHK7H/)
