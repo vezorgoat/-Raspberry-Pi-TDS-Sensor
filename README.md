@@ -60,6 +60,6 @@ If you're using a Raspberry Pi or similar microcontroller, you need to enable th
 
 To get started with the CQRobot Ocean TDS Meter Sensor, you'll need to download the following files from this repository:
 
-1. **[TDS Data](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/TDS_Data.py)https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/TDS_Data.py)**: 
+1. **[TDS Data](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/TDS_Data.py)**: 
 
 2. **[Read Voltage](link-to-libraries-folder)**: 
