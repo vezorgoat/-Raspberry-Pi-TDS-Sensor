@@ -11,6 +11,7 @@ Before using the CQRobot Ocean TDS Meter Sensor, ensure you have the following:
 
 ### Connection
 Follow the image below to connect your TDS sensor to the Pie.
+
 ![image](https://m.media-amazon.com/images/I/914mvtbb-vL._SX522_.jpg)
 
 ### Software Requirements
