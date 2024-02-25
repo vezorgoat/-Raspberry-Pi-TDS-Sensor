@@ -56,5 +56,10 @@ If you're using a Raspberry Pi or similar microcontroller, you need to enable th
 
     You should see `/dev/i2c-1` listed, indicating that the I2C interface is enabled.
 
+## Files Required
 
+To get started with the CQRobot Ocean TDS Meter Sensor, you'll need to download the following files from this repository:
 
+1. **[TDS Data]([link-to-main-script.py](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/TDS_Data.py)https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/TDS_Data.py)**: 
+
+2. **[Read Voltage](link-to-libraries-folder)**: 
