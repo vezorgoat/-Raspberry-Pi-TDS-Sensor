@@ -65,9 +65,9 @@ If you're using a Raspberry Pi or similar microcontroller, you need to enable th
 
 To get started with the CQRobot Ocean TDS Meter Sensor, you'll need to download the following files from this repository:
 
-1. **[TDS Data](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/TDS_Data.py)**: The script enables you to obtain voltage readings directly from the sensor in real-time, allowing for accurate monitoring of water quality.
+1. **[TDS Data](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/ProgramFiles/TDS_Data.py)**: The script enables you to obtain voltage readings directly from the sensor in real-time, allowing for accurate monitoring of water quality.
 
-2. **[Read Voltage](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/ReadVoltage.py)**: The Script enables data from the sensor to be read and formated([Note: this is not my script](http://www.cqrobot.wiki/index.php/TDS_(Total_Dissolved_Solids)_Meter_Sensor_SKU:_CQRSENTDS01))
+2. **[Read Voltage](https://github.com/vezorgoat/-Raspberry-Pi-TDS-Sensor/blob/main/ProgramFiles/ReadVoltage.py)**: The Script enables data from the sensor to be read and formated([Note: this is not my script](http://www.cqrobot.wiki/index.php/TDS_(Total_Dissolved_Solids)_Meter_Sensor_SKU:_CQRSENTDS01))
 
 ### Running the Script
 
